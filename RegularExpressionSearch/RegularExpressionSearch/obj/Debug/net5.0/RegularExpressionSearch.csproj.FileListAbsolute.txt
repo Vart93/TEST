@@ -1,0 +1,15 @@
+C:\Users\19\source\repos\RegularExpressionSearch\RegularExpressionSearch\bin\Debug\net5.0\RegularExpressionSearch.exe
+C:\Users\19\source\repos\RegularExpressionSearch\RegularExpressionSearch\bin\Debug\net5.0\RegularExpressionSearch.deps.json
+C:\Users\19\source\repos\RegularExpressionSearch\RegularExpressionSearch\bin\Debug\net5.0\RegularExpressionSearch.runtimeconfig.json
+C:\Users\19\source\repos\RegularExpressionSearch\RegularExpressionSearch\bin\Debug\net5.0\RegularExpressionSearch.runtimeconfig.dev.json
+C:\Users\19\source\repos\RegularExpressionSearch\RegularExpressionSearch\bin\Debug\net5.0\RegularExpressionSearch.dll
+C:\Users\19\source\repos\RegularExpressionSearch\RegularExpressionSearch\bin\Debug\net5.0\ref\RegularExpressionSearch.dll
+C:\Users\19\source\repos\RegularExpressionSearch\RegularExpressionSearch\bin\Debug\net5.0\RegularExpressionSearch.pdb
+C:\Users\19\source\repos\RegularExpressionSearch\RegularExpressionSearch\obj\Debug\net5.0\RegularExpressionSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19\source\repos\RegularExpressionSearch\RegularExpressionSearch\obj\Debug\net5.0\RegularExpressionSearch.AssemblyInfoInputs.cache
+C:\Users\19\source\repos\RegularExpressionSearch\RegularExpressionSearch\obj\Debug\net5.0\RegularExpressionSearch.AssemblyInfo.cs
+C:\Users\19\source\repos\RegularExpressionSearch\RegularExpressionSearch\obj\Debug\net5.0\RegularExpressionSearch.csproj.CoreCompileInputs.cache
+C:\Users\19\source\repos\RegularExpressionSearch\RegularExpressionSearch\obj\Debug\net5.0\RegularExpressionSearch.dll
+C:\Users\19\source\repos\RegularExpressionSearch\RegularExpressionSearch\obj\Debug\net5.0\ref\RegularExpressionSearch.dll
+C:\Users\19\source\repos\RegularExpressionSearch\RegularExpressionSearch\obj\Debug\net5.0\RegularExpressionSearch.pdb
+C:\Users\19\source\repos\RegularExpressionSearch\RegularExpressionSearch\obj\Debug\net5.0\RegularExpressionSearch.genruntimeconfig.cache
